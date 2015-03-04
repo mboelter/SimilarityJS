@@ -1,0 +1,26 @@
+{
+  "name": "SimilarityJS",
+  "version": "0.0.1",
+  "description": "A tiny recommendation engine based on vector spaces and cosine similarity",
+  "main": "similarity.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "recommendation",
+    "engine",
+    "vector",
+    "space",
+    "cosine",
+    "similarity"
+  ],
+  "author": "Markus Boelter",
+  "license": "BSD",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
