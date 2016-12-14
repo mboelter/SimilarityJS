@@ -1,5 +1,5 @@
 /**
- * SimilarityJS - http://XXXXX.com - A bit like Solr, but much smaller and not as bright - @VERSION
+ * SimilarityJS - https://github.com/mboelter/SimilarityJS - A bit like Solr, but much smaller and not as bright - @VERSION
  * Copyright (C) @YEAR Markus Boelter
  * MIT Licensed
  * @license
